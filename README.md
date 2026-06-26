@@ -19,6 +19,32 @@ Aplicación web para registrar y controlar gastos personales. Permite agregar ga
 - 👋 Mensaje de bienvenida que pide tu nombre solo la primera vez
 - 📱 Diseño responsive (se adapta a móvil y escritorio)
 
+## 📸 Capturas de pantalla
+
+### Vista principal de la app
+
+![Vista principal](assets/img/img7.jpg)
+
+### Mensaje de bienvenida
+
+Al abrir la app por primera vez, pide tu nombre y te da la bienvenida:
+
+![Pide el nombre](assets/img/img1.jpg)
+
+![Saludo de bienvenida](assets/img/img2.jpg)
+
+### Menú de opciones en consola
+
+Luego se muestra un menú con opciones para consultar los gastos:
+
+![Menú de opciones](assets/img/img3.jpg)
+
+![Total gastado](assets/img/img4.jpg)
+
+![Promedio por gasto](assets/img/img5.jpg)
+
+![Total por categoría](assets/img/img6.jpg)
+
 ## 🛠️ Tecnologías
 
 - HTML5
